@@ -65,11 +65,11 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/qianzehao123/zehao.qian'
     content_dir: content
     branch: main
   avatar:
