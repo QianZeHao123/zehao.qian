@@ -34,14 +34,16 @@ experience:
         * Basketball team
         * DJ club
 
-  - title: BEng Electronic Engineering
-    company: University X
-    company_url: ''
+  - title: BEng Industrial Engineering
+    company: Zhengzhou University
+    company_url: 'http://www7.zzu.edu.cn/glxy/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    location: Zhengzhou, Henan, China
+    date_start: '2019-09-01'
+    date_end: '2023-07-01'
+    description: |2-
+      * GPA 82.75/100, Rank 23/102, Scholarship in 2019, 2021, 2022
+      * A+ Courses: Electrotechnics, Contemporary Manufacturing System, Mechanical Manufacturing Engineering, IE software and Application, Enterprise Process Reformation, Engineering Optimization and 16 other programs
 
 design:
   columns: '1'

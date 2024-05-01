@@ -45,12 +45,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://github.com/qianzehao123
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/zehao.qian
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/@QianZehao
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -66,8 +69,14 @@ social:
 email: "zehao.qian.cn@gmail.com"
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+- 🔭 Industrial Engineering in ZZU, Optimization Research & System Engineering
+- 💬 I’m currently a Postgraduate student of Data Science (Social Analytics) in Durham University, British.
+- 🌱 Good at Python, Node.js, Mathematica.
+- 📫 How to reach me: zehao.qian.cn@gmail.com
+- 😄 Pronouns: Every brave attempt deserves to be respected.
+- ⚡ Quantum Computing and Brain-Computer interface stand for the future!
+- 👯 I’m looking to collaborate on [OpenIE & FreeLeek Foundataion](https://qianzehao123.github.io/OpenIE/).
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+
+
