@@ -38,6 +38,8 @@ content:
       tag: Math
     - name: Computer Vision, Natrual Language Processing
       tag: AI
+    - name: Social Science
+      tag: Social
 
 design:
   columns: '1'
