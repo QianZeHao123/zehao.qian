@@ -32,6 +32,12 @@ content:
       tag: ML
     - name: Computer System
       tag: CS
+    - name: Software and Architecture
+      tag: Software
+    - name: Mathematics
+      tag: Math
+    - name: Computer Vision, Natrual Language Processing
+      tag: AI
 
 design:
   columns: '1'

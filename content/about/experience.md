@@ -22,28 +22,45 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Teaching Assistant (Engineering Optimization)
+    company: School of Management Engineering, Zhengzhou University
+    company_url: 'https://ieyjzhou.github.io/teaching/2023-Engineering-Optimization'
+    company_logo: org-x
+    location: Zhengzhou
+    date_start: '2023-02-21'
+    date_end: '2023-06-30'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * $\LaTeX$ lecture notes and slides making
+        * Research on Optimization Algos
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Founder of FreeLeek
+    company: FreeLeek Foundation
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Tianjin, China
+    date_start: '2020-10-01'
+    date_end: ''
+    description: |2-
+      Build some useful Financial Quant Tools:
+      * [Leek Box](https://github.com/QianZeHao123/LeekBox)
+      * [FreeLeek](https://gitee.com/qian_zehao/free-leek)
+  
+  - title: Co-founder and Team Leader of OpenIE
+    company: Open Source Industrial Engineering Foundation
+    company_url: 'https://qianzehao123.github.io/OpenIE/'
+    company_logo: org-x
+    location: Henan, China
+    date_start: '2021-04-28'
+    date_end: ''
+    # description: |2-
+    #   Build some useful Financial Quant Tools:
+    #   * [Leek Box](https://github.com/QianZeHao123/LeekBox)
+    #   * [FreeLeek](https://gitee.com/qian_zehao/free-leek)
+    description: |2-
+      [OpenIE](https://github.com/Open-Source-Intelligent-Engineering) aims to use both advanced computer technology and traditional engineering knowledge such as engineering control theory, optimization, electronics, mechanic and so on to make industry more efficiant and reliable.
+
 
 design:
   columns: '1'
