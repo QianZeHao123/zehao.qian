@@ -5,6 +5,6 @@ tags:
   - Math
   - Software
   - CS
-date: 2024-05-03
+date: 2023-05-03
 external_link: https://github.com/QianZeHao123/Nashsweeper
 ---
