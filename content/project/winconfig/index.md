@@ -4,7 +4,7 @@ summary: Some settings for Windows 10/11 after I re-installing the system.
 tags:
   - Software
   - CS
-date: 2024-05-04
+date: 2023-05-04
 # external_link: https://qianzehao123.github.io/posts/2023/07/From-Nand-To-Tetris/
 ---
 
