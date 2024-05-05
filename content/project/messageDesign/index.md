@@ -4,7 +4,7 @@ summary: 'This project reproduces "Messages Designed to Increase Perceived Elect
 tags:
 #   - Software
   - Social
-date: 2024-05-04
+date: 2024-05-05
 ---
 
 
