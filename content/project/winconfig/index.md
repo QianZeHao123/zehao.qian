@@ -65,6 +65,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 * [Go-lang](https://golang.google.cn/dl/) is the Go language SDK download.
 * [Typst](https://github.com/typst/typst/releases/) is the best alternative to $\LaTeX$.
 * [Oracle Java](https://www.oracle.com/java/technologies/downloads/) Official JDK.
+* [Blender](https://www.blender.org/download/) for 3D making.
 
 ## 5 Download Scoop
 ```powershell
