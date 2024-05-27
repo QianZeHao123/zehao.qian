@@ -53,7 +53,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 ![](./BKP.jpg)
 
 ## 4 Necessary Software
-
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/WSD.zip" "newtab" >}}Download{{< /staticref >}} a fast deployment script.
 * [Miniconda](https://docs.anaconda.com/free/miniconda/index.html) for Python Virtual Environment
 * [R-language](https://cran.rstudio.com/) R Environment.
 * [RStudio](https://posit.co/download/rstudio-desktop/) for writting R code and RMarkdown.
