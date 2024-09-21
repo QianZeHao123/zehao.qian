@@ -40,6 +40,8 @@ content:
       tag: AI
     - name: Social Science
       tag: Social
+    - name: Travel
+      tag: Travel
 
 design:
   columns: '1'
