@@ -10,7 +10,8 @@ date: 2023-05-04
 
 ## 1 Activate Windows
 ```powershell
-irm https://massgrave.dev/get | iex
+# irm https://massgrave.dev/get | iex
+irm https://get.activated.win | iex
 ```
 
 ## 2 Download Office 365
