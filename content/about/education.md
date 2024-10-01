@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: MSc Data Science (Social Analytics)
     company: University of Durham
-    company_url: 'https://www.durham.ac.uk/'
-    company_logo: org-x
+    company_url: 'https://www.durham.ac.uk/departments/academic/natural-sciences/master-of-data-science'
+    company_logo: org-durham
     location: Durham, England, UK
     date_start: '2023-09-21'
     date_end: '2024-09-30'
@@ -38,7 +38,7 @@ experience:
   - title: BEng Industrial Engineering
     company: Zhengzhou University
     company_url: 'http://www7.zzu.edu.cn/glxy/'
-    company_logo: org-x
+    company_logo: org-zzu
     location: Zhengzhou, Henan, China
     date_start: '2019-09-01'
     date_end: '2023-07-01'
