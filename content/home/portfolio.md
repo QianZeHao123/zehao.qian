@@ -40,7 +40,7 @@ content:
       tag: AI
     - name: Social Science
       tag: Social
-    - name: Travel
+    - name: Blue Planet Exploration Program
       tag: Travel
 
 design:
