@@ -25,7 +25,7 @@ experience:
   - title: Teaching Assistant (Engineering Optimization)
     company: School of Management Engineering, Zhengzhou University
     company_url: 'https://ieyjzhou.github.io/teaching/2023-Engineering-Optimization'
-    company_logo: org-x
+    company_logo: org-zzu
     location: Zhengzhou
     date_start: '2023-02-21'
     date_end: '2023-06-30'
@@ -38,7 +38,7 @@ experience:
   - title: Founder of FreeLeek
     company: FreeLeek Foundation
     company_url: ''
-    company_logo: org-x
+    company_logo: org-OpenIE
     location: Tianjin, China
     date_start: '2020-10-01'
     date_end: ''
@@ -49,8 +49,8 @@ experience:
   
   - title: Co-founder and Team Leader of OpenIE
     company: Open Source Industrial Engineering Foundation
-    company_url: 'https://qianzehao123.github.io/OpenIE/'
-    company_logo: org-x
+    company_url: 'https://github.com/Open-Source-Intelligent-Engineering'
+    company_logo: org-OpenIE
     location: Henan, China
     date_start: '2021-04-28'
     date_end: ''
