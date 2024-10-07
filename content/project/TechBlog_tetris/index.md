@@ -1,6 +1,6 @@
 ---
 title: 'Notes: From Nand to Tetris'
-summary: This blog will record my study through the book called The Elements of Computing Systems whose main contents are HDL, Assembler, VM and OS.
+summary: 'This blog will record my study through the book called The Elements of Computing Systems whose main contents are HDL, Assembler, VM and OS.'
 tags:
   - CS
 date: 2022-11-15
