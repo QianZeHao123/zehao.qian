@@ -44,7 +44,7 @@ bio: My research interests include pure math, statistics, computer science.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: mailto:zehao.qian.cn@gmail.com # For a direct email link, use "mailto:test@example.org".
   - icon: github
     icon_pack: fab
     link: https://github.com/qianzehao123
@@ -54,6 +54,9 @@ social:
   - icon: youtube
     icon_pack: fab
     link: https://www.youtube.com/@QianZehao
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/zehao-qian/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
