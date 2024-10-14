@@ -72,11 +72,3 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 ```powershell
 Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')
 ```
-* Dart Sass
-    ```powershell
-    scoop install sass
-    ```
-* Hugo
-    ```powershell
-    scoop install hugo-extended
-    ```
