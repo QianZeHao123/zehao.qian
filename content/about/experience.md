@@ -21,7 +21,25 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+
+
 experience:
+  - title: Data Analyst
+    company: Siemens Ltd,. China
+    company_url: 'https://www.siemens.com/cn/zh.html'
+    company_logo: org-siemens
+    location: Beijing
+    date_start: '2024-10-19'
+    # date_end: '2025-01-18'
+    description: |2-
+        Team: 
+        * Advanced Data and Business Analysis
+
+        Responsibilities include:
+        * Smart ChatBot with LLM & LangChain
+        * Business Algorithm Development
+
   - title: Teaching Assistant (Engineering Optimization)
     company: School of Management Engineering, Zhengzhou University
     company_url: 'https://ieyjzhou.github.io/teaching/2023-Engineering-Optimization'
@@ -38,7 +56,7 @@ experience:
   - title: Founder of FreeLeek
     company: FreeLeek Foundation
     company_url: ''
-    company_logo: org-OpenIE
+    company_logo: org-freeleek
     location: Tianjin, China
     date_start: '2020-10-01'
     date_end: ''
