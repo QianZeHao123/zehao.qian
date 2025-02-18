@@ -25,16 +25,23 @@ date_format: Jan 2006
 
 
 experience:
+  - title: Research Assistant
+    company: Department of Information Systems, City University of Hong Kong
+    company_url: 'https://www.cb.cityu.edu.hk/is/'
+    company_logo: org-cityuhk
+    location: Hong Kong
+    date_start: '2025-02-10'
+    # date_end: '2025-01-17'
   - title: Data Analyst
     company: Siemens Ltd,. China
     company_url: 'https://www.siemens.com/cn/zh.html'
     company_logo: org-siemens
     location: Beijing
-    date_start: '2024-10-19'
-    # date_end: '2025-01-18'
+    date_start: '2024-10-18'
+    date_end: '2025-01-17'
     description: |2-
         Team: 
-        * Advanced Data and Business Analysis
+        * RC-CN DI FIN ADBA, Advanced Data and Business Analysis
 
         Responsibilities include:
         * Smart ChatBot with LLM & LangChain
