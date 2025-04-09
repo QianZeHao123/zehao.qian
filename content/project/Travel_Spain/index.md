@@ -50,8 +50,6 @@ Travel isn’t just about seeing the sights — it’s about diving into culture
 
 ![](./IMG_2084.jpeg)
 
-![](./IMG_2088.jpeg)
-
 ![](./IMG_2093.jpeg)
 
 ![](./IMG_2106.jpeg)
