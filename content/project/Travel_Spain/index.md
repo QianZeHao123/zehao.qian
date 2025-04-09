@@ -1,5 +1,5 @@
 ---
-title: 'Spain🇪🇸'
+title: '🇪🇺 ｜ Spain 🇪🇸'
 summary: My Trip to Spain -- Best ☀️ in the European Land
 tags:
   - Travel
