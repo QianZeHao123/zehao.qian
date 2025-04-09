@@ -26,7 +26,7 @@ Travel isn’t just about seeing the sights — it’s about diving into culture
 
 ![](./IMG_1989.jpeg)
 
-![](./IMG_1990.JPG)
+![](./IMG_1990.jpeg)
 
 ![](./IMG_1992.jpeg)
 
