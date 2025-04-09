@@ -11,50 +11,50 @@ Paris has always been my dream city, and this time I finally have the opportunit
 
 ## Attractions
 
-![Eiffel Tower](./Eiffel.JPG)
+![Eiffel Tower](./Eiffel.jpeg)
 
-![](./P6161837.JPG)
+![](./P6161837.jpeg)
 
-![](./P6161956.JPG)
+![](./P6161956.jpeg)
 
-![](./P6151649.JPG)
+![](./P6151649.jpeg)
 
-![](./P6151669.JPG)
+![](./P6151669.jpeg)
 
-![](./P6151486.JPG)
+![](./P6151486.jpeg)
 
-![](./P6151293.JPG)
+![](./P6151293.jpeg)
 
-![](./P6141188.JPG)
+![](./P6141188.jpeg)
 
-![](./P6141109.JPG)
+![](./P6141109.jpeg)
 
-![](./P6140975.JPG)
+![](./P6140975.jpeg)
 
-![](./P6140944.JPG)
+![](./P6140944.jpeg)
 
 ## Cuisine
 
-![](./IMG_2441.JPG)
+![](./IMG_2441.jpeg)
 
-![](./IMG_2574.JPG)
+![](./IMG_2574.jpeg)
 
-![](./IMG_2711.JPG)
+![](./IMG_2711.jpeg)
 
-![](./IMG_2800.JPG)
+![](./IMG_2800.jpeg)
 
-![](./IMG_2931.JPG)
+![](./IMG_2931.jpeg)
 
-![](./IMG_2932.JPG)
+![](./IMG_2932.jpeg)
 
 ## Culture and Art
 
-![](./P6161873.JPG)
+![](./P6161873.jpeg)
 
-![](./P6161876.JPG)
+![](./P6161876.jpeg)
 
-![](./P6161866.JPG)
+![](./P6161866.jpeg)
 
-![](./P6151327.JPG)
+![](./P6151327.jpeg)
 
-![](./P6151363.JPG)
+![](./P6151363.jpeg)
