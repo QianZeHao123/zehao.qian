@@ -1,6 +1,6 @@
 ---
-title: 'France - Paris'
-summary: Paris Travel Notes.
+title: '🇪🇺 ｜ France 🇫🇷'
+summary: Walking by the Seine River, the sunset is just right, and Paris seems to whisper romance and history softly.
 tags:
   - Travel
 date: 2024-05-04
