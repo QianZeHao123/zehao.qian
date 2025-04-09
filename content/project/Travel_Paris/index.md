@@ -1,5 +1,5 @@
 ---
-title: '🇪🇺 ｜ France 🇫🇷'
+title: '🇪🇺 ｜ France 🇫🇷 '
 summary: Walking by the Seine River, the sunset is just right, and Paris seems to whisper romance and history softly.
 tags:
   - Travel
