@@ -1,6 +1,6 @@
 ---
 title: '🇪🇺 ｜ Belgium 🇧🇪 '
-summary: Checking in at the European Parliament, I felt like a successful person. Also, tasted delicious waffles
+summary: Checking in at the European Parliament. Also, tasted delicious waffles
 tags:
   - Travel
 date: 2024-04-11
