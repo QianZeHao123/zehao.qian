@@ -22,8 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
-
-
 experience:
   - title: Research Assistant
     company: Department of Information Systems, City University of Hong Kong
@@ -31,7 +29,7 @@ experience:
     company_logo: org-cityuhk
     location: Hong Kong
     date_start: '2025-02-10'
-    # date_end: '2025-01-17'
+    date_end: '2025-07-01'
   - title: Data Analyst
     company: Siemens Ltd,. China
     company_url: 'https://www.siemens.com/cn/zh.html'
