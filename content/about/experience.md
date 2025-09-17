@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Data Scientist
+    company: Siemens Ltd,. China
+    company_url: 'https://www.siemens.com/cn/zh.html'
+    company_logo: org-siemens
+    location: Beijing
+    date_start: '2025-08-04'
+    description: |2-
+      - Team: DI IT AIDA R APAC
+      - Work Email: ze-hao.qian@siemens.com
   - title: Research Assistant
     company: Department of Information Systems, City University of Hong Kong
     company_url: 'https://www.cb.cityu.edu.hk/is/'
@@ -30,7 +39,20 @@ experience:
     location: Hong Kong
     date_start: '2025-02-10'
     date_end: '2025-07-01'
-  - title: Data Analyst
+    description: |2-
+      Mainly focus on:
+      - Traditional Machine Learning, Deep Learning and Reinforcement Learning
+        - RNN Algorithm: RNN, GRU and LSTM
+        - Attention machenism based RNN
+        - LightGBM related Algorithm
+      - Distributed Machine Learning with Ray
+      - Hyper Parameter Tuning with Optuna
+
+      Projects:
+      - [Deep Reinforcement Learning-Based Optimization of Debt Collection](https://github.com/QianZeHao123/LoanRL)
+      - [Car MRO Prediction with LightGBM and LSTM.](https://github.com/QianZeHao123/MroPred)
+      - [CityUHK Ride Hailing Project](https://github.com/QianZeHao123/RideHail)
+  - title: Data Analyst Intern
     company: Siemens Ltd,. China
     company_url: 'https://www.siemens.com/cn/zh.html'
     company_logo: org-siemens
