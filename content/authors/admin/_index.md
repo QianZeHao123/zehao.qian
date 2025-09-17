@@ -72,8 +72,9 @@ social:
 email: "zehao.qian.cn@gmail.com"
 ---
 
-- 🔭 Industrial Engineering in ZZU, Optimization Research & System Engineering
-- 💬 I’m currently a Postgraduate student of Data Science (Social Analytics) in Durham University, British.
+- 💬 I’m currently working as a Data Sciencist in Siemens Ltd., China
+- 🔭Master of Data Science (Social Analytics) in Durham University, British.
+- 📖 Bachelor of Engineering in Industrial Engineering in ZZU, Optimization Research & System Engineering
 - 🌱 Good at Python, Node.js, Mathematica.
 - 📫 How to reach me: zehao.qian.cn@gmail.com
 - 😄 Pronouns: Every brave attempt deserves to be respected.
